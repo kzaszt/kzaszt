@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, i'm kzaszt
+
+⚡ Fun fact: if you give a cat wings, it will fly!
 
 <!--
 **kzaszt/kzaszt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
